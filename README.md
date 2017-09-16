@@ -4,4 +4,6 @@ Modificado por Nicolas
 
 Modificado por Rodrigo
 
-Modificaro por Nicolas 2
+Modificado por Nicolas 2
+
+Modificado por Rodrigo 2
